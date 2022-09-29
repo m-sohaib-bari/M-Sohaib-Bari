@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @M-Sohaib-Bari
-- 👀 I’m interested in python, javascript, reactjs, nodejs
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects related python
+- 🌱 I’m currently learning c++ and javascript
+- 💞️ I’m looking to collaborate on projects related python, javascript, and c++.
 - 📫 How to reach me : msbm290@gmail.com
 
 <!---

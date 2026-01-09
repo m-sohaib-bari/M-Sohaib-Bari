@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M-Sohaib-Bari
-- 🌱 I have expertise in web development (HTML, CSS, Bootstrap, JavaScript, React.js) and programming languages such as Python (NumPy, SciPy, Matplotlib), C++, and Java.
+- 🌱 I have expertise in web development (React, Next, Typescript, Spring, Go, Psql).
 - 💞️ I’m open to collaboration on projects related to web development, data science, and AI/ML.
 - 📫 Feel free to reach out at: msbm290@gmail.com
 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M-Sohaib-Bari
-- 🌱 I have expertise in web development (React, Next, Typescript, Spring, Go, Psql).
+- 🌱 I have expertise in web development (ReactJS, NextJS, Typescript, Spring Boot, GoLang, PostgreSQL).
 - 💞️ I’m open to collaboration on projects related to web development, data science, and AI/ML.
 - 📫 Feel free to reach out at: msbm290@gmail.com
 
